@@ -14,6 +14,8 @@
 - **Bootstrap**: Responsive ve modern bir tasarım sunmak için.
 - **Git/GitHub**: Versiyon kontrolü ve proje barındırma için.
 
-![Udemig Education Preview] https://github.com/user-attachments/assets/bea17112-6dc0-4864-9563-7320e8063734
+![Udemig Education Preview] 
+
+https://github.com/user-attachments/assets/bea17112-6dc0-4864-9563-7320e8063734
 
 *Projenin canlı önizlemesini yukarıdaki gif'te görebilirsiniz.*
