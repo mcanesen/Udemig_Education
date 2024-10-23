@@ -16,6 +16,7 @@
 
 ![Udemig Education Preview] 
 
-https://github.com/user-attachments/assets/bea17112-6dc0-4864-9563-7320e8063734
+![EkranKayd2024-10-2322 10 00-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3334c705-e887-4c89-8a89-543a613d6133)
+
 
 *Projenin canlı önizlemesini yukarıdaki gif'te görebilirsiniz.*
